@@ -1,9 +1,1 @@
-- 👋 Olá sou @Francis2099
-- 👀 Iniciando meus estudos em Programação ...
-- 🌱 atualmente estudando logica de programção com linguagem C ...
-- ... e aprendendo a usar o github...
-
-<!---
-Francis2099/Francis2099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Repositorio usado para mostrar a minha evolução na linguagem C.
