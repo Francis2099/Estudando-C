@@ -1,1 +1,1 @@
-Repositorio usado para mostrar a minha evolução na linguagem C.
+Repositorio usado para mostrar meus rascunhos na linguagem C.
