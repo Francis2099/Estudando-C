@@ -4,14 +4,14 @@
 #include<stdio.h>
 int main()
 {
-	int a,b, x, soma, resultado;
-	printf("digite dois numeros inteiros:\n ");
+	int a,b, x, soma, result;
+	printf("digite dois numeros inteiros:\n");
 	scanf("%d%d", &a, &b);
 	soma = a + b;
-	printf("A soma dos numeros e:%d\n " , soma);
-	printf("digite outro numero\n");
+	printf("A soma dos numeros e: %d\n", soma);
+	printf("digite outro numero:\n");
 	scanf("%d", &x);
-	resultado = soma - x;
-	printf("subtraindo o valor digitado pela soma dos outros dois numeros, o resultado e:%d\n" , resultado);
+	result = soma - x;
+	printf("subtraindo o valor digitado pela soma dos outros dois numeros, o resultado e: %d\n", result);
 	return 0;
 }
