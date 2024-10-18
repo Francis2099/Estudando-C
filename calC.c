@@ -9,10 +9,12 @@ int main()
 	sub = a - b;
 	mult = a * b;
 	div = a / b;
-	printf(" Os numeros digitados foram: %f%f\n ", a, "e", b);
-	printf(" A soma dos numeros digitados e: %f\n ", adi);
-	printf(" A subtracao entre os numeros digitados e: %f\n ", sub);
-	printf(" A multiplicacao dos numeros digitados e: %f\n ", mult);
-	printf(" A divisao dos numeros digitados e: %f\n ", div);
+	printf(" Os numeros digitados foram: \n");
+	printf("%f\n", a);
+	printf("%f\n", b);
+	printf(" A soma dos numeros digitados e: %f\n", adi);
+	printf(" A subtracao entre os numeros digitados e: %f\n", sub);
+	printf(" A multiplicacao dos numeros digitados e: %f\n", mult);
+	printf(" A divisao dos numeros digitados e: %f\n", div);
 	return 0;
 }
